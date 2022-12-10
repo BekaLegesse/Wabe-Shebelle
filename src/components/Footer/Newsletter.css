@@ -40,11 +40,7 @@
     }
 }
 @media screen and (max-width: 550px){
-    .app__newsletter{
-        padding: 2rem 1rem;
-        /* border: none; */
-        margin: 0 2rem;
-    }
+    
 }
 @media screen and (max-width: 300px){
     .app__newsletter-heading h1{

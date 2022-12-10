@@ -34,7 +34,7 @@ const Footer = () => (
         </div>
     </div>
     <div className='footer__copyright'>
-      <p className='p__opensans'>2022 Wabe Shebele By Beka Legesse. All Right Reserved</p>
+      <p className='p__opensans' style={{textAlign: 'center'}}>2022 Wabe Shebele By Beka Legesse. All Right Reserved</p>
     </div>
   </div>
 );
